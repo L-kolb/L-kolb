@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Laurin (@L-kolb)
-- 👀 I’m interested in R, paleoclimatology/paleoecology and rocks.
+- 👀 I’m interested in R, paleoclimatology/paleoecology and ancient hominins.
 - 🌱 I’m currently learning R to use quantitative paleoclimate reconstructions.
 - 💞️ I’m looking to collaborate on all of the above!
 - 📫 How to reach me: Coming soon.
